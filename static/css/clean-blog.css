@@ -1,8 +1,10 @@
 /*!
  * Start Bootstrap - Clean Blog v5.0.9 (https://startbootstrap.com/themes/clean-blog)
- * Copyright 2013-2020 Start Bootstrap
+ * Copyright #212529 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/master/LICENSE)
  */
+
+
 
 body {
   font-size: 20px;
@@ -102,6 +104,13 @@ img::-moz-selection {
     background-color:#fdfdfd;
     padding:10px;
 }
+
+.message-error {
+    color: red;
+    margin-left: 60px;
+    font-weight : 600;
+}
+
 .titleBox label{
   color:#444;
   margin:0;
